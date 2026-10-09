@@ -84,25 +84,10 @@ email at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
 lecturer: Jon
 {% endcomment %}
 
-## מהי המעטפת?
-מחשבים מודרניים מציעים מגוון ממשקים לקבלת פקודות: ממשקים גרפיים (GUI) מרשימים, ממשקים קוליים, טכנולוגיות מציאות רבודה ומדומה (AR/VR), ולאחרונה – גם מודלי שפה גדולים (LLMs). כלים אלו מצוינים עבור כ-80% ממקרי השימוש, אך לעיתים קרובות הם מוגבלים מהותית מבחינת האפשרויות שהם מעניקים למשתמש – אינך יכול ללחוץ על כפתור שאינו קיים או לתת פקודה קולית שלא הוגדרה מראש. כדי לנצל באופן מלא את הכלים שהמחשב שלך מציע, עלינו לחזור לשיטה הוותיקה ולעבור לממשק טקסטואלי: ה-Shell (המעטפת).
+##מהי המעטפת?
+מחשבים מודרניים מציעים מגוון ממשקים לקבלת פקודות: ממשקים גרפיים (GUI) מרשימים, ממשקים קוליים, טכנולוגיות מציאות רבודה ומדומה (AR/VR), ולאחרונה גם מודלי שפה (LLMs). כלים אלו מצוינים עבור כ-80% ממקרי השימוש, אך לעיתים קרובות הם מוגבלים מהותית מבחינת האפשרויות שהם מעניקים למשתמש; אי אפשר ללחוץ על כפתור שאינו קיים או לתת פקודה קולית שלא הוגדרה מראש. כדי לנצל באופן מלא את הכלים שהמחשב מציע, עלינו לחזור לשיטה הוותיקה ולעבור לממשק טקסטואלי: ה-Shell (המעטפת).
 
-Computers these days have a variety of interfaces for giving them
-commands; fanciful graphical user interfaces, voice interfaces, AR/VR,
-and more recently: LLMs. These are great for 80% of use-cases, but they
-are often fundamentally restricted in what they allow you to do — you
-cannot press a button that isn't there or give a voice command that
-hasn't been programmed. To take full advantage of the tools your
-computer provides, we have to go old-school and drop down to a textual
-interface: The Shell.
-
-
-
-Nearly all platforms you can get your hands on have a shell in one form
-or another, and many of them have several shells for you to choose from.
-While they may vary in the details, at their core they are all roughly
-the same: they allow you to run programs, give them input, and inspect
-their output in a semi-structured way.
+כמעט כל פלטפורמה זמינה כוללת מעטפת כלשהי, ורבות מהן מציעות מספר מעטפות לבחירתך. אף שהן עשויות להיות שונות בפרטים הקטנים, בבסיסן כולן דומות למדי: הן מאפשרות להריץ תוכניות, לספק להן קלט ולבחון את הפלט שלהן באופן מובנה למחצה.
 
 To open a shell _prompt_ (where you can type commands), you first need a
 _terminal_, which is the visual interface to a shell. Your device

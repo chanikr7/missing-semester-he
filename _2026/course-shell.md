@@ -84,7 +84,8 @@ email at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
 lecturer: Jon
 {% endcomment %}
 
-## What is the shell?
+## מהי המעטפת?
+מחשבים מודרניים מציעים מגוון ממשקים לקבלת פקודות: ממשקים גרפיים (GUI) מרשימים, ממשקים קוליים, טכנולוגיות מציאות רבודה ומדומה (AR/VR), ולאחרונה – גם מודלי שפה גדולים (LLMs). כלים אלו מצוינים עבור כ-80% ממקרי השימוש, אך לעיתים קרובות הם מוגבלים מהותית מבחינת האפשרויות שהם מעניקים למשתמש – אינך יכול ללחוץ על כפתור שאינו קיים או לתת פקודה קולית שלא הוגדרה מראש. כדי לנצל באופן מלא את הכלים שהמחשב שלך מציע, עלינו לחזור לשיטה הוותיקה ולעבור לממשק טקסטואלי: ה-Shell (המעטפת).
 
 Computers these days have a variety of interfaces for giving them
 commands; fanciful graphical user interfaces, voice interfaces, AR/VR,
@@ -94,6 +95,8 @@ cannot press a button that isn't there or give a voice command that
 hasn't been programmed. To take full advantage of the tools your
 computer provides, we have to go old-school and drop down to a textual
 interface: The Shell.
+
+
 
 Nearly all platforms you can get your hands on have a shell in one form
 or another, and many of them have several shells for you to choose from.
